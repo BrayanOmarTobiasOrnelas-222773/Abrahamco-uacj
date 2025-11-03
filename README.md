@@ -65,7 +65,7 @@ Una vez que el equipo ha completado y probado **todas las Historias de Usuario**
 
 -----
 
-## ⚠️ 4. Reglas de Integración
+## Reglas de Integración
 
   * **No Modificar:** Los archivos `src/data_manager.py` y `main.py` son solo de lectura/ejecución para los equipos de desarrollo.
   * **Conflictos:** Si tu trabajo requiere la lógica de otro equipo (Ej: el Equipo 6 necesita la función `update_balance`), debes **importar y llamar** a esa función; **nunca copiar y pegar** el código.
