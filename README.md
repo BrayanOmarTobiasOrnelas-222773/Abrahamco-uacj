@@ -1,5 +1,5 @@
 # Abrahamco-uacj
-
+:v
 Este proyecto simula un desarrollo ágil utilizando el *framework* **SCRUM** y el flujo de trabajo profesional de **Git y GitHub**. Cada equipo es responsable de implementar un **Feature** clave del sistema bancario digital.
 
 
